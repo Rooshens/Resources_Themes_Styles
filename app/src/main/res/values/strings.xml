@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hwResourcesThemesStyles</string>
+    <string name="tv_helloworld">Hello world</string>
+</resources>
